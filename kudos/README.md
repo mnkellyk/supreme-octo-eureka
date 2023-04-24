@@ -1,7 +1,7 @@
 # Required additions
 The following NPM packages must also be added:
 
-npm install @mui/material @emotiom/react @emotion/styled @mui/icons-material
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
 
 npm install @fontsource/roboto
 
